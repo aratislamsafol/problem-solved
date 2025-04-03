@@ -24,4 +24,4 @@ function priceCalculate(quantity){
 }
 
 
-console.log(priceCalculate(110));
+console.log(priceCalculate(110)); 
